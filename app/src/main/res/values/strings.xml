@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">ToDoListAndroid</string>
+    <string name="all_task"> تمام کام کرنے کی فہرست </string>
+    <string name="today_tasks">آج کے کام کرنے کی فہرست : </string>
+    <string name="task1">پہلا کام</string>
+    <string name="task2">دوسرا کام</string>
+    <string name="task3">تیسرا کام</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
